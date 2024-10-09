@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@dgit31"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/dgit31/ha_roomclimatetracker",
+  "domain": "room_climate_tracker",
+  "iot_class": "calculated",
+  "name": "RoomClimateTracker",
+  "requirements": [],
+  "version": "1.0.0"
+}
